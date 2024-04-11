@@ -9,7 +9,9 @@
     letter-spacing: 0.8px;
     line-height: 1.5em;
 }
-
+.bg-primary{
+    background-color: rgb(52, 151, 128) !important;
+}
 body{
   
     font-family: "Noto Serif TC",sans-serif;
