@@ -39,3 +39,9 @@ p.redred{
     background-color: blue;
     color:white;
 }
+table.table{
+    align-items: center;
+    width: 80%;
+    border-collapse: separate;
+    margin-left: 3em;
+}
