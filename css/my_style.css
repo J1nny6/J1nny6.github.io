@@ -10,7 +10,7 @@
     line-height: 1.5em;
 }
 .bg-primary{
-    background-color: rgb(52, 151, 128) !important;
+    background-image: url(../assets/img/bg.jpeg);
 }
 body{
   
@@ -44,4 +44,12 @@ table.table{
     width: 80%;
     border-collapse: separate;
     margin-left: 3em;
+}
+.tables{
+    border: 5px solid black;
+    border-radius: 30px;
+    padding: 10px;
+}
+.mar{
+    margin-bottom: 40px;
 }
